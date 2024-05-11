@@ -1,2 +1,2 @@
 # victoria
-website for nail salon
+QV Nails Salon
